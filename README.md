@@ -1,3 +1,10 @@
+# Redux state flow
+
+https://www.tutorialspoint.com/redux/images/data_flow.jpg
+
+One way flow.
+
+Action is dispatched -> reducer called with current state and action -> returns new state -> state updated -> new state retrieved on frontend -> rerender
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
