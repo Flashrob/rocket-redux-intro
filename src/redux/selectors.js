@@ -1,0 +1,1 @@
+export const getCreated = (state) => state.created;
